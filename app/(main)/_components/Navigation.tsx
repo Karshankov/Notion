@@ -134,7 +134,7 @@ return (
         </div>
 
         <div >
-            <Link href="https://lms-alovt.vercel.app/" className="mt-5">
+            <Link href="https://lms-alovt.netlify.app/" className="mt-5">
               <Button size="sm" variant="ghost">
                 <LogOut className="h-4 w-4 mr-2" />
                 Выйти из заметок
